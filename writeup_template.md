@@ -5,7 +5,7 @@ The goal of this project was to write an image pipeline to identify the lane bou
 [//]: # (Image References)
 
 [image1]: ./camera_cal_results/found_corners.png "Found Chessboard Corners"
-[image2]: ./camera_cal_results/undistored.png "Undistorted Chessboard"
+[image2]: ./camera_cal_results/undistorted.png "Undistorted Chessboard"
 [image3]: ./test_images/straight_lines2.jpg "Straight Road"
 [image4]: ./camera_cal_results/perspective_road.png "Before Perspective Shift"
 [image5]: ./camera_cal_results/warped_road.png "After Perspective Shift"
